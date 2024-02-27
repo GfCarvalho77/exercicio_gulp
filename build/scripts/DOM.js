@@ -1,0 +1,1 @@
+function ಠ_ಠ317(){document.getElementById("titulo").style.ಠ_ಠ318="green",document.getElementById("paragrafo").ಠ_ಠ319="O botão foi clicado!"}document.getElementById("botao").addEventListener("click",ಠ_ಠ317);
